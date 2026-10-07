@@ -146,3 +146,11 @@ This project was created to practice fundamental C++ programming concepts such a
 ## 👩‍💻 Author
 
 Created as a C++ practice project.
+
+## 👩‍💻 Author
+
+**Yasmin Hammuş**
+Software Engineering Student
+
+This project was created as a C++ practice project.
+
