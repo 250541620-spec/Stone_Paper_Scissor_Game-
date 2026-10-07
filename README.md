@@ -147,8 +147,6 @@ This project was created to practice fundamental C++ programming concepts such a
 
 Created as a C++ practice project.
 
-## 👩‍💻 Author
-
 **Yasmin Hammuş**
 Software Engineering Student
 
